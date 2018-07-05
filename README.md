@@ -1,2 +1,2 @@
 # webpack-node
-Node.js w/ webpack. :hammer:
+My node.js kickstarter w/ webpack. :hammer:
